@@ -1,8 +1,8 @@
 <?php
 /*
-* 文件名: until.php
-* 作者  : Yoby 微信logove email:logove@qq.com
-* 日期时间: 2019/6/3  14:07
+* 文件名: fn.php
+* 作者  : captaindu   微信18362961528 email:1533036253@qq.com
+* 日期时间: 2019/6/9  14:07
 * 功能  :函数集合
 */
 if (!function_exists('dump')) {
